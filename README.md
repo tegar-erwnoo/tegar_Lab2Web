@@ -41,12 +41,10 @@ Ketika menggunakan CSS, elemen HTML dapat memiliki beberapa deklarasi gaya yang 
 
 contohnya
 
-![image](https://github.com/user-attachments/assets/28b3acde-fd29-4d75-a941-c3867748c3e8)
-
 ini yang akan di tampikan id selector
 
-![image](https://github.com/user-attachments/assets/048bf428-6633-4365-9b4a-950ccdec3655)
+![image](https://github.com/user-attachments/assets/28b3acde-fd29-4d75-a941-c3867748c3e8)
 
 ini yang akan di tampilkan class
 
-
+![image](https://github.com/user-attachments/assets/048bf428-6633-4365-9b4a-950ccdec3655)
