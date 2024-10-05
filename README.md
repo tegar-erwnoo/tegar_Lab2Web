@@ -7,11 +7,10 @@
 ![image](https://github.com/user-attachments/assets/4c2dfca9-e969-4f1d-b6d8-bfc42f6fc662)
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
-   
- semua elemen h1 di halaman HTML jika ada beberapa h1, semuanya akan mendapatkan gaya yang sama.
+
 ![image](https://github.com/user-attachments/assets/afaa6065-365f-4901-ba80-4db8e47c5959)
 
-h1 yang ada di dalam elemen dengan id intro artinya jika ada h1 lain di luar elemen dengan id intro gaya ini tidak akan di terapkan pada elemen tersebut
+semua elemen h1 di halaman HTML jika ada beberapa h1, semuanya akan mendapatkan gaya yang sama.
 
 ![image](https://github.com/user-attachments/assets/1639103b-e111-4ef4-ab30-c2552a83aeab)
 
