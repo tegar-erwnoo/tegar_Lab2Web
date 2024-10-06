@@ -4,15 +4,16 @@
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
-![image](https://github.com/user-attachments/assets/4c2dfca9-e969-4f1d-b6d8-bfc42f6fc662)
+![image](https://github.com/user-attachments/assets/cc598531-9d1e-4ceb-971d-42565856aca6)
+
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 
-![image](https://github.com/user-attachments/assets/afaa6065-365f-4901-ba80-4db8e47c5959)
+![image](https://github.com/user-attachments/assets/e6eb3a57-2358-4ca5-8e33-2beb2caaf687)
 
 semua elemen h1 di halaman HTML jika ada beberapa h1, semuanya akan mendapatkan gaya yang sama.
 
-![image](https://github.com/user-attachments/assets/1639103b-e111-4ef4-ab30-c2552a83aeab)
+![image](https://github.com/user-attachments/assets/0aa33bde-7e46-496d-add2-a23c21fb496e)
 
 h1 yang ada di dalam elemen dengan id intro artinya jika ada h1 lain di luar elemen dengan id intro gaya ini tidak akan di terapkan pada elemen tersebut
 
@@ -24,7 +25,7 @@ contohnya
 
             h1{
 
-                color: green; /* CSS Eksternal */
+                color: #green; /* CSS Eksternal */
 
 CSS Eksternal: Gaya yang ditetapkan dalam file eksternal akan diterapkan terakhir dan hanya jika tidak ada inline CSS atau CSS internal yang lebih spesifik. Dalam contoh ini, color: green; tidak akan terlihat.
 
@@ -42,8 +43,8 @@ contohnya
 
 ini yang akan di tampikan id selector
 
-![image](https://github.com/user-attachments/assets/28b3acde-fd29-4d75-a941-c3867748c3e8)
+![image](https://github.com/user-attachments/assets/007fd373-dc6c-4e2e-b688-db1b1e84a930)
 
 ini yang akan di tampilkan class
 
-![image](https://github.com/user-attachments/assets/048bf428-6633-4365-9b4a-950ccdec3655)
+![image](https://github.com/user-attachments/assets/afc7d7b2-ae61-492c-892c-c21f845eac6e)
