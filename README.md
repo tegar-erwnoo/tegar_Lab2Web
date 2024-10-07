@@ -4,8 +4,7 @@
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
-![image](https://github.com/user-attachments/assets/cc598531-9d1e-4ceb-971d-42565856aca6)
-
+![image](https://github.com/user-attachments/assets/1c3d9fec-483b-4b62-a1be-3094ed2d5dee)
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 
@@ -13,7 +12,7 @@
 
 semua elemen h1 di halaman HTML jika ada beberapa h1, semuanya akan mendapatkan gaya yang sama.
 
-![image](https://github.com/user-attachments/assets/0aa33bde-7e46-496d-add2-a23c21fb496e)
+![image](https://github.com/user-attachments/assets/cf5f9d24-761a-4bd0-bb3f-a6e192f971b3)
 
 h1 yang ada di dalam elemen dengan id intro artinya jika ada h1 lain di luar elemen dengan id intro gaya ini tidak akan di terapkan pada elemen tersebut
 
