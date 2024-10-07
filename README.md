@@ -42,7 +42,7 @@ contohnya
 
 ini yang akan di tampikan id selector
 
-![image](https://github.com/user-attachments/assets/007fd373-dc6c-4e2e-b688-db1b1e84a930)
+![image](https://github.com/user-attachments/assets/031502b6-3caf-43f1-a3c7-be6a23f497c9)
 
 ini yang akan di tampilkan class
 
